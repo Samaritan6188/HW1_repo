@@ -1,2 +1,3 @@
-# HW1_repo
-for homework 1
+# Homework 1
+## What is README file and what it should contain
+
