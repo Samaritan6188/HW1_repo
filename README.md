@@ -1,4 +1,5 @@
 # Homework 1
+#### by Xiaoyang Sheng
 ## What is README file and what it should contain
 ### what is README
 It is a file that is ususally included in a project to breifly introduce the project. By reading the README file, the reader can qucikly get a basic knowledge of the project. 
