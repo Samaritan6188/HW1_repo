@@ -10,3 +10,4 @@ It is a file that is ususally included in a project to breifly introduce the pro
 5. the explanation of some common problem
 
 ## Binary Search
+Binary search is a search algorithm used to find the position of a value in a sorted array. It makes comparison between the target and the middle element of the array and then eleminate the upper or lower part which the target can't be in. Then again make the comparison between the target and the middle element of the left array and eleminate the impossible part. Repeat the process until get the position.
